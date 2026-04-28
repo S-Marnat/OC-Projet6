@@ -2,7 +2,7 @@
 
 namespace NexaWorks.Models
 {
-    public class ProduitVersion
+    public class ProduitVersionSysteme
     {
         public int IdProduit { get; set; }
         public Produit? Produit { get; set; }
