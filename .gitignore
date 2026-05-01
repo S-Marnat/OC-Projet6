@@ -26,7 +26,6 @@ packages/
 *.tmp
 *.temp
 *.cache
-*.bak
 
 # --- Fichiers système ---
 Thumbs.db
